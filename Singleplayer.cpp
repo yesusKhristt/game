@@ -2,6 +2,7 @@
 #include <iostream>
 #include <raylib.h>
 
+#define poop 64
 #define CH_FRAME_COUNT1 6
 
 // extern Texture2D bg_anime[FRAME_COUNT1]; // Ensure it's loaded before calling this function
